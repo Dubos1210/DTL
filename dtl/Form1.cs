@@ -43,17 +43,16 @@ namespace dtl
         private void Form1_KeyPress(object sender, KeyPressEventArgs e)
         {
             label1.Text = e.KeyChar.ToString();
-            path = e.KeyChar.ToString() + ".wav";
+            path = @"src\" + e.KeyChar.ToString() + ".wav";
             pictureBox1.Visible = true;
             try
             {
                 pictureBox1.Image = image;
-                image = new Bitmap(e.KeyChar.ToString() + ".png", true);
+                image = new Bitmap(@"src\" + e.KeyChar.ToString() + ".png", true);
                 pictureBox1.Image = image;
             }
             catch (System.ArgumentException ex)
             {
-                label1.Text = "Error";
                 pictureBox1.Visible = false;
             }
 
@@ -63,8 +62,14 @@ namespace dtl
 
         private void Form1_KeyUp(object sender, KeyEventArgs e)
         {
-            label1.Text = "No Key";
+            label1.Text = "";
             pictureBox1.Visible = false;
+        }
+
+        private void Form1_SizeChanged(object sender, EventArgs e)
+        {
+            pictureBox1.Width = (this.Width - 19);
+            pictureBox1.Height = (this.Height - 41);
         }
     }
 }

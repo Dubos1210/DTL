@@ -60,10 +60,9 @@
             this.ClientSize = new System.Drawing.Size(503, 502);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
-            this.MaximizeBox = false;
-            this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "DTL utility";
+            this.SizeChanged += new System.EventHandler(this.Form1_SizeChanged);
             this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Form1_KeyPress);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

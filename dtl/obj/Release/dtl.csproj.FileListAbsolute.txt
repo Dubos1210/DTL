@@ -6,3 +6,4 @@ D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dt
 D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.csproj.GenerateResource.Cache
 D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.exe
 D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.pdb
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.csprojResolveAssemblyReference.cache

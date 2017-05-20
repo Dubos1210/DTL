@@ -1,0 +1,8 @@
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\bin\Release\dtl.exe.config
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\bin\Release\dtl.exe
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\bin\Release\dtl.pdb
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.Form1.resources
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.Properties.Resources.resources
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.csproj.GenerateResource.Cache
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.exe
+D:\Архив\Вовчик\Документы\Visual Studio 2015\Projects\dtl\dtl\obj\Release\dtl.pdb
